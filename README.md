@@ -1,0 +1,2 @@
+# Telepítő php alkalmazásokhoz
+- 
