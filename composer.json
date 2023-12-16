@@ -1,0 +1,14 @@
+{
+  "name": "mas/mas",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "bgal",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
